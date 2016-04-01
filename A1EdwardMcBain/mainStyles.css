@@ -1,0 +1,147 @@
+#header {
+	border-radius: 100px;
+	border: medium solid #000000;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 25px;
+	color: #000000;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	font-variant: small-caps;
+	text-decoration: none;
+	/* [disabled]padding-top: 25px; */
+	background-image: url(CossiePlay/images/winter-kingdom-798279_1920.jpg);
+	background-color: #FFFFFF;
+	background-position: -1px 20%;
+	background-repeat: no-repeat;
+	background-size: 250px auto;
+}
+#header a{
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #000000;
+	text-decoration: none;
+	border: thin solid #000000;
+	border-radius: 50px;
+	background-color: rgba(67,141,168,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+}
+#header a:hover{
+	color:#FFFFFF;
+	background-color: rgba(171,225,244,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+}
+body {
+	background-image: -webkit-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(61,141,164,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(61,141,164,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(61,141,164,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(171,225,244,1.00) 0%,rgba(61,141,164,1.00) 100%);
+}
+body h1, h2, h3 {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif
+}
+#forgroundBody {
+	/* [disabled]border: medium solid #000000; */
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	border-radius: 50px;
+	background-color: hsla(0,0%,100%,0.75);
+}
+#forgroundBody li {
+	/* [disabled]text-indent: 50px; */
+	padding-bottom: 2px;
+}
+#foreBodyImg {
+	text-align:center;
+}
+img {	
+	border: thin solid #000000;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+table {
+	text-indent: 5px;
+	background-color: #FFFFFF;
+}
+#costumeList img {
+	float: right;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#actionButton {
+	font-variant: small-caps;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	border: thin solid #000000;
+	border-radius: 100px;
+	text-align: center;
+	background-color: #FFFFFF;
+	margin-left: 25%;
+	margin-right: 25%;
+	padding-bottom: 25px;
+}
+#actionButton a {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #000000;
+	text-decoration: none;
+	border: thin solid #000000;
+	border-radius: 50px;
+	background-color: rgba(67,141,168,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(171,225,244,1.00) 0%,rgba(67,141,168,1.00) 100%);
+}
+#actionButton a:hover {
+	color:#FFFFFF;
+	background-color: rgba(171,225,244,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(67,141,168,1.00) 0%,rgba(171,225,244,1.00) 100%);
+}
+#footer {
+	color: #000000;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-variant: small-caps;
+	border: medium solid #000000;
+	border-radius: 100px;
+	text-align: center;
+	background-image: url(CossiePlay/images/winter-kingdom-798279_1920.jpg);
+	background-color: #FFFFFF;
+	background-position: -1px 20%;
+	background-repeat: no-repeat;
+	background-size: 250px auto;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#footer li {
+	display:inline;
+}
